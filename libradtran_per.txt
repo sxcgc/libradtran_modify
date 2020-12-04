@@ -1,0 +1,11 @@
+#/bin/sh
+# for ubuntu
+
+sudo su
+apt install cmake
+apt install gcc
+apt install gfortran
+apt install flex
+apt install perl
+apt install libgsl0-dev
+apt install libnetcdf-dev
